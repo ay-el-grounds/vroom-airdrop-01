@@ -1,0 +1,916 @@
+{
+    "data": {
+      "FarcasterChannels": {
+        "FarcasterChannel": [
+          {
+            "channelId": "drift",
+            "followerCount": 19,
+            "participants": [
+              {
+                "participant": {
+                  "userAddress": "0xf21be5b3b70c3f9dba4ff5af35da083b9ff83eb0",
+                  "profileName": "alexander2",
+                  "fid": "388111",
+                  "userAssociatedAddresses": [
+                    "0xd7ec983e1a0cbc0a3d6686e58ac0456ec936d515",
+                    "0xf21be5b3b70c3f9dba4ff5af35da083b9ff83eb0"
+                  ],
+                  "followerCount": 858,
+                  "followingCount": 207,
+                  "isFarcasterPowerUser": true
+                },
+                "lastActionTimestamp": "2024-05-03T20:12:30Z",
+                "lastCastedTimestamp": "2024-05-03T20:12:30Z",
+                "lastRepliedTimestamp": null,
+                "channelActions": [
+                  "cast",
+                  "follow"
+                ],
+                "lastFollowedTimestamp": "2024-05-03T20:11:47Z"
+              },
+              {
+                "participant": {
+                  "userAddress": "0xebfe0ca4fbc5a0e7f36dbcdf2ca8333611b8fb9f",
+                  "profileName": "axek",
+                  "fid": "13030",
+                  "userAssociatedAddresses": [
+                    "0xebfe0ca4fbc5a0e7f36dbcdf2ca8333611b8fb9f",
+                    "0xfac50fd9eb90c1a7c0bc7b739eb90f1bda06e9d0",
+                    "0x49269b2a98bd2124f8a3cbfd2b9647262f055b3c"
+                  ],
+                  "followerCount": 1860,
+                  "followingCount": 585,
+                  "isFarcasterPowerUser": true
+                },
+                "lastActionTimestamp": "2024-07-26T19:21:52Z",
+                "lastCastedTimestamp": "2024-07-26T19:21:52Z",
+                "lastRepliedTimestamp": null,
+                "channelActions": [
+                  "cast",
+                  "follow"
+                ],
+                "lastFollowedTimestamp": "2024-05-03T16:06:42Z"
+              },
+              {
+                "participant": {
+                  "userAddress": "0x842f1db7aacd88f4feafd4532ad5fec4c8074174",
+                  "profileName": "lifeisatape",
+                  "fid": "355271",
+                  "userAssociatedAddresses": [
+                    "0x842f1db7aacd88f4feafd4532ad5fec4c8074174",
+                    "0xb387175b8b9ec0534407cafc2919e17ad89260ce"
+                  ],
+                  "followerCount": 2393,
+                  "followingCount": 652,
+                  "isFarcasterPowerUser": true
+                },
+                "lastActionTimestamp": "2024-06-07T13:07:26Z",
+                "lastCastedTimestamp": "2024-06-07T13:07:26Z",
+                "lastRepliedTimestamp": null,
+                "channelActions": [
+                  "cast",
+                  "follow"
+                ],
+                "lastFollowedTimestamp": "2024-05-03T16:05:24Z"
+              },
+              {
+                "participant": {
+                  "userAddress": "0xe792891212a7c59b798788bc5379fc91768ee2d0",
+                  "profileName": "dev0ps",
+                  "fid": "207400",
+                  "userAssociatedAddresses": [
+                    "0x006c087fdc9783d1ab34cd156adfb0b51f74bc04",
+                    "0x141851ca7ffbead76491b365c3515bf5bfd9efed",
+                    "0x51f47622856f24ed640f70400fa7aa583f04efee",
+                    "0x86ea1e8f576331baf33f5a84c6e90d3b59cb594c",
+                    "0xaadd6d24ede8ab75acc3fba496c3b41a9e663689",
+                    "0xe792891212a7c59b798788bc5379fc91768ee2d0"
+                  ],
+                  "followerCount": 937,
+                  "followingCount": 469,
+                  "isFarcasterPowerUser": false
+                },
+                "lastActionTimestamp": "2024-05-15T15:55:30Z",
+                "lastCastedTimestamp": "2024-05-15T15:55:30Z",
+                "lastRepliedTimestamp": null,
+                "channelActions": [
+                  "cast"
+                ],
+                "lastFollowedTimestamp": null
+              },
+              {
+                "participant": {
+                  "userAddress": "0x56f8351d469838e710299ba97ec3aa6850cdc3ef",
+                  "profileName": "pazziwazzi",
+                  "fid": "586357",
+                  "userAssociatedAddresses": [
+                    "0x56f8351d469838e710299ba97ec3aa6850cdc3ef",
+                    "0xe77faa168e030aa5ece33ff920ee472d73d3b6b9"
+                  ],
+                  "followerCount": 21,
+                  "followingCount": 102,
+                  "isFarcasterPowerUser": false
+                },
+                "lastActionTimestamp": "2024-06-04T14:46:23Z",
+                "lastCastedTimestamp": "2024-06-04T14:46:23Z",
+                "lastRepliedTimestamp": null,
+                "channelActions": [
+                  "cast"
+                ],
+                "lastFollowedTimestamp": null
+              },
+              {
+                "participant": {
+                  "userAddress": "0x7d7ba5b9e5b3311c168636935770d9c1f7acc281",
+                  "profileName": "zhekazhe",
+                  "fid": "406748",
+                  "userAssociatedAddresses": [
+                    "0x61112f0f5adec6d6f4c9245c92dd55c00ca74a49",
+                    "0x7d7ba5b9e5b3311c168636935770d9c1f7acc281"
+                  ],
+                  "followerCount": 674,
+                  "followingCount": 28,
+                  "isFarcasterPowerUser": false
+                },
+                "lastActionTimestamp": "2024-06-09T07:20:06Z",
+                "lastCastedTimestamp": "2024-06-09T07:20:06Z",
+                "lastRepliedTimestamp": null,
+                "channelActions": [
+                  "cast",
+                  "follow"
+                ],
+                "lastFollowedTimestamp": "2024-06-05T14:46:27Z"
+              },
+              {
+                "participant": {
+                  "userAddress": "0x5d0c6565e1370c15b45042e4155f69c5cfb888e3",
+                  "profileName": "markmalyshev",
+                  "fid": "459033",
+                  "userAssociatedAddresses": [
+                    "0x5d0c6565e1370c15b45042e4155f69c5cfb888e3"
+                  ],
+                  "followerCount": 6,
+                  "followingCount": 64,
+                  "isFarcasterPowerUser": false
+                },
+                "lastActionTimestamp": "2024-06-07T13:12:53Z",
+                "lastCastedTimestamp": "2024-06-07T13:12:53Z",
+                "lastRepliedTimestamp": null,
+                "channelActions": [
+                  "cast"
+                ],
+                "lastFollowedTimestamp": null
+              },
+              {
+                "participant": {
+                  "userAddress": "0x1383b44cdcd53fb11a831d9b8769e2870d7db286",
+                  "profileName": "savvage",
+                  "fid": "652949",
+                  "userAssociatedAddresses": [
+                    "0x1383b44cdcd53fb11a831d9b8769e2870d7db286",
+                    "0x845eef6ed5376b1996991686e585ad21f103c818"
+                  ],
+                  "followerCount": 7,
+                  "followingCount": 64,
+                  "isFarcasterPowerUser": false
+                },
+                "lastActionTimestamp": "2024-06-10T00:11:17Z",
+                "lastCastedTimestamp": "2024-06-10T00:11:17Z",
+                "lastRepliedTimestamp": null,
+                "channelActions": [
+                  "cast"
+                ],
+                "lastFollowedTimestamp": null
+              },
+              {
+                "participant": {
+                  "userAddress": "0x479bb2334e759709e3a6a992475ec5befc972531",
+                  "profileName": "kandaadityaulgvw",
+                  "fid": "617488",
+                  "userAssociatedAddresses": [
+                    "0x479bb2334e759709e3a6a992475ec5befc972531",
+                    "0x7ceb1b81dc9b43f36989c71c034947a822a47751"
+                  ],
+                  "followerCount": 51,
+                  "followingCount": 112,
+                  "isFarcasterPowerUser": false
+                },
+                "lastActionTimestamp": "2024-06-21T08:51:39Z",
+                "lastCastedTimestamp": "2024-06-21T08:51:39Z",
+                "lastRepliedTimestamp": null,
+                "channelActions": [
+                  "cast"
+                ],
+                "lastFollowedTimestamp": null
+              },
+              {
+                "participant": {
+                  "userAddress": "0xc860d5c6c488931f0528060e18ab26883c2058ba",
+                  "profileName": "david-degen",
+                  "fid": "500015",
+                  "userAssociatedAddresses": [
+                    "0xc860d5c6c488931f0528060e18ab26883c2058ba"
+                  ],
+                  "followerCount": 3,
+                  "followingCount": 5,
+                  "isFarcasterPowerUser": false
+                },
+                "lastActionTimestamp": "2024-07-21T10:26:53Z",
+                "lastCastedTimestamp": "2024-07-21T10:26:53Z",
+                "lastRepliedTimestamp": null,
+                "channelActions": [
+                  "cast",
+                  "follow"
+                ],
+                "lastFollowedTimestamp": "2024-07-02T11:12:33Z"
+              }
+            ]
+          },
+          {
+            "channelId": "velocityvibes",
+            "followerCount": 134,
+            "participants": [
+              {
+                "participant": {
+                  "userAddress": "0x5fa1e81b8baccd2208880c049a7b2a39b40cf3e1",
+                  "profileName": "erik-bulckens",
+                  "fid": "261245",
+                  "userAssociatedAddresses": [
+                    "0x5fa1e81b8baccd2208880c049a7b2a39b40cf3e1",
+                    "0xb46adfe7e10675b1e43f9132da7f00a9ad3642f3",
+                    "2Wn89r819VwJbhrm6YqvXiPh8DtmbzaDaiGEeyKmWhh7"
+                  ],
+                  "followerCount": 1642,
+                  "followingCount": 609,
+                  "isFarcasterPowerUser": true
+                },
+                "lastActionTimestamp": "2024-07-16T17:38:05Z",
+                "lastCastedTimestamp": "2024-07-16T17:38:05Z",
+                "lastRepliedTimestamp": null,
+                "channelActions": [
+                  "cast",
+                  "follow"
+                ],
+                "lastFollowedTimestamp": "2024-03-22T12:36:28Z"
+              },
+              {
+                "participant": {
+                  "userAddress": "0x74928bff512edb3cac0087b02a92f0a31c02ebfb",
+                  "profileName": "dmitriykhaykin",
+                  "fid": "345667",
+                  "userAssociatedAddresses": [
+                    "0x74928bff512edb3cac0087b02a92f0a31c02ebfb",
+                    "0xbfa5a19e5d18bda3b9ee960aebc96602580f9c37"
+                  ],
+                  "followerCount": 424,
+                  "followingCount": 254,
+                  "isFarcasterPowerUser": false
+                },
+                "lastActionTimestamp": "2024-06-21T17:26:38Z",
+                "lastCastedTimestamp": "2024-06-21T17:26:38Z",
+                "lastRepliedTimestamp": null,
+                "channelActions": [
+                  "cast",
+                  "follow"
+                ],
+                "lastFollowedTimestamp": "2024-03-22T16:35:27Z"
+              },
+              {
+                "participant": {
+                  "userAddress": "0x65d91832a130c09238dcf638b7ab11708c28c4a9",
+                  "profileName": "ilovedecay",
+                  "fid": "298978",
+                  "userAssociatedAddresses": [
+                    "0x65d91832a130c09238dcf638b7ab11708c28c4a9",
+                    "0x6a6d2019ed5079f07e84d30b4d702a601eaaa5f6"
+                  ],
+                  "followerCount": 515,
+                  "followingCount": 561,
+                  "isFarcasterPowerUser": false
+                },
+                "lastActionTimestamp": "2024-04-26T00:38:33Z",
+                "lastCastedTimestamp": "2024-04-02T18:57:34Z",
+                "lastRepliedTimestamp": null,
+                "channelActions": [
+                  "cast",
+                  "follow"
+                ],
+                "lastFollowedTimestamp": "2024-04-02T18:51:16Z"
+              },
+              {
+                "participant": {
+                  "userAddress": "0x5da78706293dc7d9850fd37875f0794e220822fa",
+                  "profileName": "dredogue",
+                  "fid": "462693",
+                  "userAssociatedAddresses": [
+                    "0x5da78706293dc7d9850fd37875f0794e220822fa",
+                    "0xb5292bb264b19eb7fafd054236ee2f2ee4509d8e",
+                    "3hcXam5tnrBPV8xwRtNFXp5fCD1EW9foDTR7nxz8DfPX"
+                  ],
+                  "followerCount": 537,
+                  "followingCount": 386,
+                  "isFarcasterPowerUser": false
+                },
+                "lastActionTimestamp": "2024-06-05T11:18:57Z",
+                "lastCastedTimestamp": "2024-06-05T11:18:57Z",
+                "lastRepliedTimestamp": null,
+                "channelActions": [
+                  "cast",
+                  "follow"
+                ],
+                "lastFollowedTimestamp": "2024-04-26T03:03:21Z"
+              },
+              {
+                "participant": {
+                  "userAddress": "0x143470e3f74535428a43b63f8e84c65d216af485",
+                  "profileName": "lehabaks",
+                  "fid": "217699",
+                  "userAssociatedAddresses": [
+                    "0x143470e3f74535428a43b63f8e84c65d216af485",
+                    "0x46e0ebb66c75743ea7cf223830b6d01d26c9d2e5",
+                    "8jU9gfATz1nvUz5ZT9Vh9HjH8xYJ5c5NejfzVKLKmXz5"
+                  ],
+                  "followerCount": 1491,
+                  "followingCount": 2396,
+                  "isFarcasterPowerUser": false
+                },
+                "lastActionTimestamp": "2024-04-25T03:23:39Z",
+                "lastCastedTimestamp": "2024-04-25T03:23:39Z",
+                "lastRepliedTimestamp": null,
+                "channelActions": [
+                  "cast",
+                  "follow"
+                ],
+                "lastFollowedTimestamp": "2024-04-13T08:39:09Z"
+              },
+              {
+                "participant": {
+                  "userAddress": "0xf52a204f7dcd159bdbe78f56e96ecec9df789874",
+                  "profileName": "shalexvivek",
+                  "fid": "252086",
+                  "userAssociatedAddresses": [
+                    "0x4065de123cf18e9c4ab7da18db21518285ea164e",
+                    "0xf52a204f7dcd159bdbe78f56e96ecec9df789874",
+                    "9xX6dREqVbkWYcQVuRymi6B2Hojn5RAo7CzxDfzGUV1t"
+                  ],
+                  "followerCount": 322,
+                  "followingCount": 309,
+                  "isFarcasterPowerUser": false
+                },
+                "lastActionTimestamp": "2024-04-26T05:37:51Z",
+                "lastCastedTimestamp": "2024-04-26T05:37:51Z",
+                "lastRepliedTimestamp": null,
+                "channelActions": [
+                  "cast",
+                  "follow"
+                ],
+                "lastFollowedTimestamp": "2024-04-25T16:00:51Z"
+              },
+              {
+                "participant": {
+                  "userAddress": "0x977c2935c6248aeeae61d69637c2aafc34d74927",
+                  "profileName": "trueten",
+                  "fid": "445068",
+                  "userAssociatedAddresses": [
+                    "0x977c2935c6248aeeae61d69637c2aafc34d74927"
+                  ],
+                  "followerCount": 1965,
+                  "followingCount": 5024,
+                  "isFarcasterPowerUser": false
+                },
+                "lastActionTimestamp": "2024-04-26T10:22:22Z",
+                "lastCastedTimestamp": "2024-04-26T10:22:22Z",
+                "lastRepliedTimestamp": null,
+                "channelActions": [
+                  "cast",
+                  "follow"
+                ],
+                "lastFollowedTimestamp": "2024-04-08T16:19:28Z"
+              },
+              {
+                "participant": {
+                  "userAddress": "0x63d485844b44a773c78286ae56406bdb8f47af89",
+                  "profileName": "photographer",
+                  "fid": "370795",
+                  "userAssociatedAddresses": [
+                    "0x047e21efb55fea894ab6f572b8a1547a37e64f60",
+                    "0x63d485844b44a773c78286ae56406bdb8f47af89",
+                    "FH7JRkcMUqxtHqravzQ3Yjc9ArnxCV7oMD4oLg4RpGra"
+                  ],
+                  "followerCount": 398,
+                  "followingCount": 169,
+                  "isFarcasterPowerUser": false
+                },
+                "lastActionTimestamp": "2024-05-18T09:16:18Z",
+                "lastCastedTimestamp": "2024-05-18T09:16:18Z",
+                "lastRepliedTimestamp": null,
+                "channelActions": [
+                  "cast",
+                  "follow"
+                ],
+                "lastFollowedTimestamp": "2024-03-31T20:13:20Z"
+              },
+              {
+                "participant": {
+                  "userAddress": "0x2f23c0032af2bb8fa3f5b4ad9b429aa2f530bb5e",
+                  "profileName": "drachetech11",
+                  "fid": "333868",
+                  "userAssociatedAddresses": [
+                    "0x2f23c0032af2bb8fa3f5b4ad9b429aa2f530bb5e",
+                    "0x4c7e3daa6771f1085a726b3c07a0bbab607fe625"
+                  ],
+                  "followerCount": 4094,
+                  "followingCount": 968,
+                  "isFarcasterPowerUser": true
+                },
+                "lastActionTimestamp": "2024-08-04T14:44:26Z",
+                "lastCastedTimestamp": "2024-08-04T14:44:26Z",
+                "lastRepliedTimestamp": null,
+                "channelActions": [
+                  "cast",
+                  "follow"
+                ],
+                "lastFollowedTimestamp": "2024-03-22T12:10:58Z"
+              },
+              {
+                "participant": {
+                  "userAddress": "0xc638d1f4c89ff92c88e5881186a171b5eb13bc5e",
+                  "profileName": "mindmechanic",
+                  "fid": "8931",
+                  "userAssociatedAddresses": [
+                    "0x564beabdc1afc0751f1721890856ad4c5e644840",
+                    "0x66aeae785b4f44cd15746354a48e4d4a5a958398",
+                    "0xc638d1f4c89ff92c88e5881186a171b5eb13bc5e"
+                  ],
+                  "followerCount": 554,
+                  "followingCount": 164,
+                  "isFarcasterPowerUser": false
+                },
+                "lastActionTimestamp": "2024-04-12T04:31:27Z",
+                "lastCastedTimestamp": "2024-04-12T00:34:53Z",
+                "lastRepliedTimestamp": null,
+                "channelActions": [
+                  "cast",
+                  "follow"
+                ],
+                "lastFollowedTimestamp": "2024-04-08T14:13:24Z"
+              }
+            ]
+          },
+          {
+            "channelId": "cars",
+            "followerCount": 2319,
+            "participants": [
+              {
+                "participant": {
+                  "userAddress": "0xb382282350c7599cea12d97e88aefbf2123816a8",
+                  "profileName": "abellopez",
+                  "fid": "421693",
+                  "userAssociatedAddresses": [
+                    "0xb382282350c7599cea12d97e88aefbf2123816a8",
+                    "0xf4241af4342878760e4026cb198bfa5149e6116a"
+                  ],
+                  "followerCount": 1321,
+                  "followingCount": 1662,
+                  "isFarcasterPowerUser": false
+                },
+                "lastActionTimestamp": "2024-05-29T17:40:50Z",
+                "lastCastedTimestamp": "2024-05-29T17:40:50Z",
+                "lastRepliedTimestamp": null,
+                "channelActions": [
+                  "cast",
+                  "follow"
+                ],
+                "lastFollowedTimestamp": "2024-04-01T12:45:06Z"
+              },
+              {
+                "participant": {
+                  "userAddress": "0x3a746987caab16462045857fc9ca80d30b4e0648",
+                  "profileName": "kellerlina",
+                  "fid": "430468",
+                  "userAssociatedAddresses": [
+                    "0x3a746987caab16462045857fc9ca80d30b4e0648",
+                    "0xd0b49a83d5dab2029b401e2ba04296b87b54e479"
+                  ],
+                  "followerCount": 239,
+                  "followingCount": 179,
+                  "isFarcasterPowerUser": false
+                },
+                "lastActionTimestamp": "2024-04-25T19:47:45Z",
+                "lastCastedTimestamp": "2024-04-25T19:47:45Z",
+                "lastRepliedTimestamp": null,
+                "channelActions": [
+                  "cast"
+                ],
+                "lastFollowedTimestamp": null
+              },
+              {
+                "participant": {
+                  "userAddress": "0x406519c254a2466b889d9d60343943cdcc97a291",
+                  "profileName": "peyson.eth",
+                  "fid": "269515",
+                  "userAssociatedAddresses": [
+                    "0x406519c254a2466b889d9d60343943cdcc97a291",
+                    "0xeba9a4ea74691790bd5ecc28a1fe5f9b0b220ce0"
+                  ],
+                  "followerCount": 837,
+                  "followingCount": 372,
+                  "isFarcasterPowerUser": false
+                },
+                "lastActionTimestamp": "2024-07-10T16:25:58Z",
+                "lastCastedTimestamp": "2024-07-10T16:25:58Z",
+                "lastRepliedTimestamp": null,
+                "channelActions": [
+                  "cast"
+                ],
+                "lastFollowedTimestamp": null
+              },
+              {
+                "participant": {
+                  "userAddress": "0x1d98e24f47a51662904895b5a28616567afaa662",
+                  "profileName": "joeblau",
+                  "fid": "412",
+                  "userAssociatedAddresses": [
+                    "0x1d98e24f47a51662904895b5a28616567afaa662",
+                    "0xa53417f20bb7148a50849770471de251417c3f12"
+                  ],
+                  "followerCount": 49752,
+                  "followingCount": 858,
+                  "isFarcasterPowerUser": true
+                },
+                "lastActionTimestamp": "2024-06-21T01:10:34Z",
+                "lastCastedTimestamp": "2024-06-21T01:10:34Z",
+                "lastRepliedTimestamp": null,
+                "channelActions": [
+                  "cast"
+                ],
+                "lastFollowedTimestamp": null
+              },
+              {
+                "participant": {
+                  "userAddress": "0x869a836442bfb0a92df01fdae9412238848716d7",
+                  "profileName": "evaluate",
+                  "fid": "961",
+                  "userAssociatedAddresses": [
+                    "0x5dbbcfae7ad3c6664c96f6439575332bc8157e2d",
+                    "0x869a836442bfb0a92df01fdae9412238848716d7",
+                    "0xb52ce37d238174f2f1c613b4c272f1c69b8dcecd"
+                  ],
+                  "followerCount": 915,
+                  "followingCount": 547,
+                  "isFarcasterPowerUser": true
+                },
+                "lastActionTimestamp": "2024-06-07T00:30:46Z",
+                "lastCastedTimestamp": "2024-06-07T00:30:46Z",
+                "lastRepliedTimestamp": null,
+                "channelActions": [
+                  "cast",
+                  "follow"
+                ],
+                "lastFollowedTimestamp": "2024-03-26T20:27:35Z"
+              },
+              {
+                "participant": {
+                  "userAddress": "0x42336ad90fb7a447e013d9f495cb96d7edc1a003",
+                  "profileName": "cxy",
+                  "fid": "633",
+                  "userAssociatedAddresses": [
+                    "0x42336ad90fb7a447e013d9f495cb96d7edc1a003",
+                    "0x7b753919b953b1021a33f55671716dc13c1eae08",
+                    "2fj2ne42grvCHsDUTuL4HVFT9wrAKZ3F9VZ2ktKMyDHP"
+                  ],
+                  "followerCount": 797,
+                  "followingCount": 387,
+                  "isFarcasterPowerUser": true
+                },
+                "lastActionTimestamp": "2024-07-29T05:27:31Z",
+                "lastCastedTimestamp": "2024-07-29T05:27:31Z",
+                "lastRepliedTimestamp": null,
+                "channelActions": [
+                  "cast",
+                  "follow"
+                ],
+                "lastFollowedTimestamp": "2024-02-25T05:39:50Z"
+              },
+              {
+                "participant": {
+                  "userAddress": "0x68d4be8377e8c716196a0a2f4df33c3c96f637fe",
+                  "profileName": "mk",
+                  "fid": "143",
+                  "userAssociatedAddresses": [
+                    "0x68d4be8377e8c716196a0a2f4df33c3c96f637fe",
+                    "0xc6f6c89f7f297b5230d2fd028ac06f0677c1857b"
+                  ],
+                  "followerCount": 78459,
+                  "followingCount": 462,
+                  "isFarcasterPowerUser": false
+                },
+                "lastActionTimestamp": "2024-05-18T20:18:08Z",
+                "lastCastedTimestamp": "2024-05-18T20:18:08Z",
+                "lastRepliedTimestamp": null,
+                "channelActions": [
+                  "cast"
+                ],
+                "lastFollowedTimestamp": null
+              },
+              {
+                "participant": {
+                  "userAddress": "0xde1e96c194cd54fdebb21db1cecd0c964f1c5054",
+                  "profileName": "giu",
+                  "fid": "124",
+                  "userAssociatedAddresses": [
+                    "0xde1e96c194cd54fdebb21db1cecd0c964f1c5054",
+                    "0xe7b25a8ab435c4f8a0d056edda7ba450a9999285"
+                  ],
+                  "followerCount": 301789,
+                  "followingCount": 459,
+                  "isFarcasterPowerUser": true
+                },
+                "lastActionTimestamp": "2024-06-25T20:25:00Z",
+                "lastCastedTimestamp": "2024-06-25T20:25:00Z",
+                "lastRepliedTimestamp": null,
+                "channelActions": [
+                  "cast",
+                  "follow"
+                ],
+                "lastFollowedTimestamp": "2024-02-14T20:45:35Z"
+              },
+              {
+                "participant": {
+                  "userAddress": "0x1ca66c990e86b750ea6b2180d17fff89273a5c0d",
+                  "profileName": "jayme",
+                  "fid": "373",
+                  "userAssociatedAddresses": [
+                    "0x1ca66c990e86b750ea6b2180d17fff89273a5c0d",
+                    "0x9eab9d856a3a667dc4cd10001d59c679c64756e7"
+                  ],
+                  "followerCount": 144911,
+                  "followingCount": 1458,
+                  "isFarcasterPowerUser": true
+                },
+                "lastActionTimestamp": "2024-04-14T09:41:24Z",
+                "lastCastedTimestamp": "2024-04-14T09:41:24Z",
+                "lastRepliedTimestamp": null,
+                "channelActions": [
+                  "cast"
+                ],
+                "lastFollowedTimestamp": null
+              },
+              {
+                "participant": {
+                  "userAddress": "0x8f14435438702f111088c1dc36f9548842629fe4",
+                  "profileName": "nezzar.eth",
+                  "fid": "1733",
+                  "userAssociatedAddresses": [
+                    "0x26bbec292e5080ecfd36f38ff1619ff35826b113",
+                    "0x8f14435438702f111088c1dc36f9548842629fe4"
+                  ],
+                  "followerCount": 659,
+                  "followingCount": 570,
+                  "isFarcasterPowerUser": true
+                },
+                "lastActionTimestamp": "2024-02-12T09:18:16Z",
+                "lastCastedTimestamp": "2024-02-12T09:18:16Z",
+                "lastRepliedTimestamp": null,
+                "channelActions": [
+                  "cast",
+                  "follow"
+                ],
+                "lastFollowedTimestamp": "2024-02-12T09:17:15Z"
+              }
+            ]
+          },
+          {
+            "channelId": "f1",
+            "followerCount": 17346,
+            "participants": [
+              {
+                "participant": {
+                  "userAddress": "0x446f26cb0318ad2d7ed29ce396eb758e969c4a4d",
+                  "profileName": "chandresh.eth",
+                  "fid": "4434",
+                  "userAssociatedAddresses": [
+                    "0x446f26cb0318ad2d7ed29ce396eb758e969c4a4d",
+                    "0x61da82d341141dbafc8b536eedb23e7d83496c7c"
+                  ],
+                  "followerCount": 42410,
+                  "followingCount": 1463,
+                  "isFarcasterPowerUser": true
+                },
+                "lastActionTimestamp": "2024-07-29T15:17:55Z",
+                "lastCastedTimestamp": "2024-07-29T15:17:55Z",
+                "lastRepliedTimestamp": null,
+                "channelActions": [
+                  "cast",
+                  "follow"
+                ],
+                "lastFollowedTimestamp": "2023-08-02T22:53:32Z"
+              },
+              {
+                "participant": {
+                  "userAddress": "0x799c660495977c471717ba3d1c6d70abd5af8d30",
+                  "profileName": "jmpaul",
+                  "fid": "343",
+                  "userAssociatedAddresses": [
+                    "0x799c660495977c471717ba3d1c6d70abd5af8d30",
+                    "0xd7be5692548d971eb47dd7705df2998a87a2c86d"
+                  ],
+                  "followerCount": 357,
+                  "followingCount": 246,
+                  "isFarcasterPowerUser": true
+                },
+                "lastActionTimestamp": "2023-08-25T19:18:54Z",
+                "lastCastedTimestamp": "2023-08-25T19:18:54Z",
+                "lastRepliedTimestamp": null,
+                "channelActions": [
+                  "cast",
+                  "follow"
+                ],
+                "lastFollowedTimestamp": "2023-08-03T04:52:37Z"
+              },
+              {
+                "participant": {
+                  "userAddress": "0xf0148f5aef8c40850a8827a0f664df027e080abc",
+                  "profileName": "sorenwrenn",
+                  "fid": "521",
+                  "userAssociatedAddresses": [
+                    "0xf0148f5aef8c40850a8827a0f664df027e080abc",
+                    "0xfcdd256267ade068babfb94f526a47aadf143a55"
+                  ],
+                  "followerCount": 1371,
+                  "followingCount": 506,
+                  "isFarcasterPowerUser": true
+                },
+                "lastActionTimestamp": "2024-02-02T04:03:50Z",
+                "lastCastedTimestamp": "2024-02-02T04:03:50Z",
+                "lastRepliedTimestamp": null,
+                "channelActions": [
+                  "cast",
+                  "follow"
+                ],
+                "lastFollowedTimestamp": "2024-02-02T04:03:25Z"
+              },
+              {
+                "participant": {
+                  "userAddress": "0xdf055eb92e2c97d7da4036278d145458eb11811c",
+                  "profileName": "akhil-bvs",
+                  "fid": "1265",
+                  "userAssociatedAddresses": [
+                    "0xab14023979a34b4abb17abd099a1de1dc452011a",
+                    "0xdf055eb92e2c97d7da4036278d145458eb11811c"
+                  ],
+                  "followerCount": 1232,
+                  "followingCount": 184,
+                  "isFarcasterPowerUser": true
+                },
+                "lastActionTimestamp": "2024-07-30T23:06:34Z",
+                "lastCastedTimestamp": "2024-07-30T23:06:34Z",
+                "lastRepliedTimestamp": null,
+                "channelActions": [
+                  "cast",
+                  "follow"
+                ],
+                "lastFollowedTimestamp": "2024-03-27T18:49:20Z"
+              },
+              {
+                "participant": {
+                  "userAddress": "0xc79d6bf77b7c38ae27a3a52365358e69d17ef31e",
+                  "profileName": "rm3",
+                  "fid": "326577",
+                  "userAssociatedAddresses": [
+                    "0x464ec3e5827210cde1bb8a29759b3290680e414d",
+                    "0x7d81b760d13c8d746bc47225efaed47708f32e78",
+                    "0xc79d6bf77b7c38ae27a3a52365358e69d17ef31e"
+                  ],
+                  "followerCount": 496,
+                  "followingCount": 703,
+                  "isFarcasterPowerUser": false
+                },
+                "lastActionTimestamp": "2024-04-25T20:59:13Z",
+                "lastCastedTimestamp": "2024-04-07T16:02:32Z",
+                "lastRepliedTimestamp": null,
+                "channelActions": [
+                  "cast",
+                  "follow"
+                ],
+                "lastFollowedTimestamp": "2024-02-12T21:41:24Z"
+              },
+              {
+                "participant": {
+                  "userAddress": "0xec5ccbf3e7cac22a41fe9fc998ac4b6def03a5d8",
+                  "profileName": "aho",
+                  "fid": "1631",
+                  "userAssociatedAddresses": [
+                    "0xec5ccbf3e7cac22a41fe9fc998ac4b6def03a5d8",
+                    "0xf58fe388d53e9542f0bddff2d1578b13675228fd",
+                    "6v1JjZngy757E7J1dCRFPPz9FEhj3FF2xzwFUJH4nuxN"
+                  ],
+                  "followerCount": 1893,
+                  "followingCount": 431,
+                  "isFarcasterPowerUser": false
+                },
+                "lastActionTimestamp": "2024-07-08T03:23:52Z",
+                "lastCastedTimestamp": "2024-07-08T03:23:52Z",
+                "lastRepliedTimestamp": null,
+                "channelActions": [
+                  "cast"
+                ],
+                "lastFollowedTimestamp": null
+              },
+              {
+                "participant": {
+                  "userAddress": "0xa8509291bbac87ac4f14be0606efcaea2665b5e4",
+                  "profileName": "sayangel",
+                  "fid": "1725",
+                  "userAssociatedAddresses": [
+                    "0x88d0e89e7f502aa49a564b683e19089c771776c3",
+                    "0xa8509291bbac87ac4f14be0606efcaea2665b5e4"
+                  ],
+                  "followerCount": 6652,
+                  "followingCount": 484,
+                  "isFarcasterPowerUser": true
+                },
+                "lastActionTimestamp": "2024-08-05T21:30:58Z",
+                "lastCastedTimestamp": "2024-08-05T21:30:58Z",
+                "lastRepliedTimestamp": null,
+                "channelActions": [
+                  "cast",
+                  "follow"
+                ],
+                "lastFollowedTimestamp": "2024-03-01T02:55:24Z"
+              },
+              {
+                "participant": {
+                  "userAddress": "0xf7155cded42d60995b48c6783a515205fbe75505",
+                  "profileName": "scottrepreneur",
+                  "fid": "828",
+                  "userAssociatedAddresses": [
+                    "0x101525763b8e7468cb587c1547eaff88c4cb3b7a",
+                    "0x68d36dcbdd7bbf206e27134f28103abe7cf972df",
+                    "0x843a3c4ed93fb1f1335d5d174745551468106715",
+                    "0xf7155cded42d60995b48c6783a515205fbe75505"
+                  ],
+                  "followerCount": 45328,
+                  "followingCount": 1329,
+                  "isFarcasterPowerUser": true
+                },
+                "lastActionTimestamp": "2024-07-28T12:55:00Z",
+                "lastCastedTimestamp": "2024-07-28T12:55:00Z",
+                "lastRepliedTimestamp": null,
+                "channelActions": [
+                  "cast",
+                  "follow"
+                ],
+                "lastFollowedTimestamp": "2023-08-02T23:47:31Z"
+              },
+              {
+                "participant": {
+                  "userAddress": "0xcd1bae2391651198850b076c2b600d534df53ade",
+                  "profileName": "df",
+                  "fid": "1214",
+                  "userAssociatedAddresses": [
+                    "0xcd1bae2391651198850b076c2b600d534df53ade",
+                    "0xdaa83039aca9a33b2e54bb2acc9f9c3a99357618",
+                    "FWC7MGpEwoKZ2gTx6QZB9kWSXq6WvjcJJAJH7qWAGS2k"
+                  ],
+                  "followerCount": 109800,
+                  "followingCount": 1938,
+                  "isFarcasterPowerUser": true
+                },
+                "lastActionTimestamp": "2023-09-03T11:16:59Z",
+                "lastCastedTimestamp": "2023-09-03T11:16:59Z",
+                "lastRepliedTimestamp": null,
+                "channelActions": [
+                  "cast",
+                  "follow"
+                ],
+                "lastFollowedTimestamp": "2023-08-03T08:22:23Z"
+              },
+              {
+                "participant": {
+                  "userAddress": "0x8f14435438702f111088c1dc36f9548842629fe4",
+                  "profileName": "nezzar.eth",
+                  "fid": "1733",
+                  "userAssociatedAddresses": [
+                    "0x26bbec292e5080ecfd36f38ff1619ff35826b113",
+                    "0x8f14435438702f111088c1dc36f9548842629fe4"
+                  ],
+                  "followerCount": 659,
+                  "followingCount": 570,
+                  "isFarcasterPowerUser": true
+                },
+                "lastActionTimestamp": "2024-03-01T16:10:16Z",
+                "lastCastedTimestamp": "2024-03-01T16:10:16Z",
+                "lastRepliedTimestamp": null,
+                "channelActions": [
+                  "cast",
+                  "follow"
+                ],
+                "lastFollowedTimestamp": "2024-03-01T15:59:55Z"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
